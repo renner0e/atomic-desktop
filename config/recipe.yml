@@ -1,5 +1,5 @@
 # image will be published to ghcr.io/<user>/<name>
-name: desktop-pc
+name: atomic-desktop
 # description will be included in the image's metadata
 description: My Personal Fork of ublue for my desktop PC running KDE Plasma and zsh
 
