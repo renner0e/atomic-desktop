@@ -36,7 +36,6 @@ modules:
       - ksystemlog
       - plasma-firewall-firewalld
       - plymouth-kcm
-      - ksensors
       - lm_sensors
 
     remove:
