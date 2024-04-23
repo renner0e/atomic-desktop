@@ -42,14 +42,13 @@ modules:
       - lm_sensors
 
     remove:
-      - default-editor
       - firefox # default firefox removed in favor of flatpak
       - firefox-langpacks # langpacks needs to also be removed to prevent dependency problems
       - nano
       - nano-default-editor
-      - tree-sitter-cli
-      - vim-enhanced
       - vim-minimal
+      - default-editor
+      - vim-enhanced
 
       # KDE specific stuff
       - firewall-config
