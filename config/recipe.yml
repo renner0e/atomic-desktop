@@ -23,6 +23,7 @@ modules:
       - btop
       - bootc
       - chromium
+      - lm_sensors
       - hdparm
       - mpc
       - mpd
@@ -40,7 +41,9 @@ modules:
       - ksystemlog
       - plasma-firewall-firewalld
       - plymouth-kcm
-      - lm_sensors
+      # remove bazzite bloat
+      - protontricks
+      - discover-overlay
 
     remove:
       #- firefox # default firefox removed in favor of flatpak
