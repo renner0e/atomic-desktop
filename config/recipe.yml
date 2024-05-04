@@ -41,9 +41,6 @@ modules:
       - ksystemlog
       - plasma-firewall-firewalld
       - plymouth-kcm
-      # remove bazzite bloat
-      - protontricks
-      - discover-overlay
 
     remove:
       #- firefox # default firefox removed in favor of flatpak
@@ -56,6 +53,12 @@ modules:
 
       # KDE specific stuff
       - firewall-config
+
+      # remove bazzite bloat
+      - protontricks
+      - discover-overlay
+      - webapp-manager
+
 
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
