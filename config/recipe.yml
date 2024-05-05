@@ -23,6 +23,7 @@ modules:
       - btop
       - bootc
       - chromium
+      - corectrl
       - lm_sensors
       - hdparm
       - mpc
