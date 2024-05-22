@@ -22,7 +22,6 @@ modules:
     install:
       - bootc
       - btop
-      - chromium
       - corectrl
       - goverlay
       - hdparm
@@ -57,8 +56,9 @@ modules:
       - firewall-config
 
       # remove bazzite bloat
-      - protontricks
       - discover-overlay
+      - protontricks
+      - ublue-update
       - webapp-manager
 
 
