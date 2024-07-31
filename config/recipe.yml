@@ -57,7 +57,6 @@ modules:
 
       # remove bazzite bloat
       - discover-overlay
-      - displaylink
       - protontricks
       - ublue-update
       - webapp-manager
