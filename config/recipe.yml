@@ -54,6 +54,7 @@ modules:
 
       # KDE specific stuff
       - firewall-config
+      - kcharselect
 
       # remove bazzite bloat
       - discover-overlay
