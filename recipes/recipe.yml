@@ -27,6 +27,7 @@ modules:
       - hdparm
       - lm_sensors
       - neovim
+      - podman-compose
       - wl-clipboard
       - zsh
       - zsh-autosuggestions
