@@ -55,6 +55,7 @@ modules:
       # remove bazzite bloat
       - discover-overlay
       - ublue-update
+      - tuned-profiles-cpu-partitioning
       - webapp-manager
 
 
