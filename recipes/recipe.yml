@@ -35,7 +35,6 @@ modules:
       # KDE specific stuff
       - kcm_systemd
       - plasma-firewall-firewalld
-      - plymouth-kcm
 
     remove:
       #- firefox # default firefox removed in favor of flatpak
