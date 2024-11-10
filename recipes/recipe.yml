@@ -32,7 +32,6 @@ modules:
       - zsh
       - zsh-autosuggestions
       - zsh-syntax-highlighting
-      - ckb-next
       # KDE specific stuff
       - plasma-breeze-qt5
       - btrfs-assistant
