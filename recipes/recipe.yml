@@ -34,7 +34,6 @@ modules:
       - zsh-syntax-highlighting
       # KDE specific stuff
       - kcm_systemd
-      - ksystemlog
       - plasma-firewall-firewalld
       - plymouth-kcm
 
