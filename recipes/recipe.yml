@@ -33,7 +33,6 @@ modules:
       - zsh-autosuggestions
       - zsh-syntax-highlighting
       # KDE specific stuff
-      - kcm_systemd
       - plasma-firewall-firewalld
 
     remove:
