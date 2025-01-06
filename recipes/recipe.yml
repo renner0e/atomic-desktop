@@ -29,6 +29,8 @@ modules:
       - zsh-syntax-highlighting
       # KDE specific stuff
       - plasma-firewall-firewalld
+      # when bazzite removes konsole eventually
+      - konsole
       # needed for building sysext
       - erofs-utils
     remove:
