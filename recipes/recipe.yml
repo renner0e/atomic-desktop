@@ -22,7 +22,6 @@ modules:
     install:
       - corectrl
       - neovim
-      - podman-compose
       - zsh
       - zsh-autosuggestions
       - zsh-syntax-highlighting
