@@ -28,6 +28,8 @@ modules:
       - plasma-firewall-firewalld
       # when bazzite removes konsole eventually
       - konsole
+      - ksystemlog
+      - plasma-drkonqi
       # needed for building sysext
       - erofs-utils
     remove:
