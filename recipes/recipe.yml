@@ -51,5 +51,6 @@ modules:
     scripts:
       # replace vi/vim binaries with nvim
       - vim.sh
+      - bluefin-backgrounds.sh
 
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
