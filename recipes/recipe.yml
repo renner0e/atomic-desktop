@@ -37,6 +37,8 @@ modules:
       #- firefox-langpacks # langpacks needs to also be removed to prevent dependency problems
       - nano
       - nano-default-editor
+      # don't show fedora-appstream-data, this fixes apps showing even tho they are not installable
+      - appstream-data
       - vim-minimal
       - default-editor
       - vim-enhanced
