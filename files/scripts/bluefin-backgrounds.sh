@@ -9,4 +9,4 @@ set -oue pipefail
 
 dnf5 copr enable -y ublue-os/staging
 
-dnf5 install -y bluefin-backgrounds
+dnf5 install -y bluefin-backgrounds aurora-backgrounds
