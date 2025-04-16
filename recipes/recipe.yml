@@ -46,7 +46,6 @@ modules:
       - kcharselect
       # remove bazzite bloat
       - discover-overlay
-      - ublue-update
       - webapp-manager
 
   - type: script
