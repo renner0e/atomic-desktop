@@ -21,6 +21,7 @@ modules:
   - type: rpm-ostree
     install:
       - adw-gtk3-theme
+      - glorpfetch
       - mpdris2
       - neovim
       - zsh
